@@ -2,6 +2,8 @@
 
 Daymark is a responsive, browser-based habit tracker for daily routines and personal goals.
 
+**Live demo:** https://avi-808.github.io/daymark-habit-tracker/
+
 ## Features
 
 - Mark daily habit check-ins in a monthly calendar.
